@@ -100,3 +100,9 @@ python SMTPTool.py -q 500 -f "./Content/testcompany_addresses.txt" -v -e usw81cs
    $pip install pyodbc
    
    ```
+   
+### Execution of SMTPToolExchange
+
+    - Download and unnzip the SMTPToolExchange
+    - cd to SMTPToolExchange parent folder which contains all the files
+    - Execute the commands as shown above
